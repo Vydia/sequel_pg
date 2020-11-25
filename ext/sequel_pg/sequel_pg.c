@@ -16,7 +16,7 @@
 #include <ruby/encoding.h>
 
 #ifndef SPG_MAX_FIELDS
-#define SPG_MAX_FIELDS 256
+#define SPG_MAX_FIELDS 512
 #endif
 #define SPG_MINUTES_PER_DAY 1440.0
 #define SPG_SECONDS_PER_DAY 86400.0
